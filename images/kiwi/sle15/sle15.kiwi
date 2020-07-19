@@ -51,7 +51,6 @@
     <package name="libcairo2"/>
     <package name="tar"/>
     <package name="bzip2"/>
-    <package name="mawk"/>
     <package name="netcat-openbsd"/>
     <!-- The python package is required to provide a version with ssl support -->
     <package name="python"/>
@@ -76,7 +75,6 @@
     <!-- gss-ntlmssp-dev -->
     <package name="iproute2"/>
     <package name="ImageMagick"/>
-    <package name="arping2"/>
     <package name="iputils"/>
     <package name="jq"/>
     <package name="krb5"/>
