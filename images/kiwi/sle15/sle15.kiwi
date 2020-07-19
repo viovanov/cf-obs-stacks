@@ -111,8 +111,7 @@
     <!-- liblockfile-bin -->
     <!-- liblockfile1 -->
     <!-- liblog-message-simple-perl -->
-    <package name="libmagic1"/>
-    <package name="libMagick++-devel"/>
+
     <package name="libmariadb-devel"/>
     <package name="libmariadb-devel"/>
     <package name="perl-Module-Pluggable"/>
